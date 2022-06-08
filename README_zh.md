@@ -31,3 +31,14 @@ APM32F103CBT6
 |HDK| 硬件开发资料|
 |SDK|软件开发资料|
 |Examples|软件例程|
+
+```
+/*---------------------------------------
+- WeAct Studio 官方链接
+- taobao: weactstudio.taobao.com
+- aliexpress: weactstudio.aliexpress.com
+- github: github.com/WeActTC
+- gitee: gitee.com/WeAct-TC
+- blog: www.weact-tc.cn
+---------------------------------------*/
+```

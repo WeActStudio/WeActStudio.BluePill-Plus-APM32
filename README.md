@@ -31,3 +31,14 @@ APM32F103CBT6
 |HDK|Hardware Development Kit|
 |SDK|Software Development Kit|
 |Examples|Software Examples|
+
+```
+/*---------------------------------------
+- WeAct Studio Official Link
+- taobao: weactstudio.taobao.com
+- aliexpress: weactstudio.aliexpress.com
+- github: github.com/WeActTC
+- gitee: gitee.com/WeAct-TC
+- blog: www.weact-tc.cn
+---------------------------------------*/
+```
