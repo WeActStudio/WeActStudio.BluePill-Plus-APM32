@@ -39,6 +39,7 @@ int main(void)
     
     printf("\r\nWeAct Studio Core Board\r\n");
     printf("weactstudio.taobao.com\r\n");
+    printf("weactstudio.aliexpress.com\r\n");
     printf("wwww.weact-tc.cn\r\n\r\n");
     printf("SystemClk:%d\r\n", SystemCoreClock);
     printf("FPU Test\r\n");

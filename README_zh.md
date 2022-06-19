@@ -5,7 +5,7 @@ APM32F103CBT6
 
 ![display](Images/BluePillPlus.jpg)
 
-## Features
+## 特性
 * APM32F103CBT6 ARM Cortex-M3 带有FPU
 + `96 MHz` 最大运行频率
 + `128 Kbytes` of Flash memory, `20 Kbytes` of SRAM
